@@ -2,28 +2,28 @@ import { Users, Video, DollarSign, Star } from "lucide-react";
 
 const stats = [
   {
-    label: "Active Creators",
-    value: "12,000+",
-    icon: Users,
-    description: "Verified content creators",
-  },
-  {
-    label: "Premium Videos",
-    value: "250,000+",
-    icon: Video,
-    description: "Exclusive content available",
-  },
-  {
-    label: "Creator Earnings",
-    value: "$45M+",
-    icon: DollarSign,
-    description: "Paid out to creators",
-  },
-  {
-    label: "Average Rating",
-    value: "4.8",
+    label: "Years of Experience",
+    value: "8+",
     icon: Star,
-    description: "Based on user reviews",
+    description: "In the industry",
+  },
+  {
+    label: "Videos Sold",
+    value: "900+",
+    icon: Video,
+    description: "Premium content delivered",
+  },
+  {
+    label: "Followers",
+    value: "5,000+",
+    icon: Users,
+    description: "Growing community",
+  },
+  {
+    label: "Successful Meetings",
+    value: "500+",
+    icon: DollarSign,
+    description: "Happy customers",
   },
 ];
 
