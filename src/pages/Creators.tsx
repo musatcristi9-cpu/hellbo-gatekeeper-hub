@@ -179,7 +179,7 @@ const Creators = () => {
                 <Badge
                   key={category}
                   variant={selectedCategory === category ? "default" : "secondary"}
-                  className={`cursor-pointer px-4 py-2 text-sm transition-colors ${
+                  className={`cursor-pointer px-2.5 py-1 text-xs transition-colors ${
                     selectedCategory === category
                       ? "bg-primary text-primary-foreground"
                       : "hover:bg-muted"
