@@ -115,7 +115,7 @@ const allCreators = [
   },
 ];
 
-const categories = ["All", "Tech", "Art", "Fitness", "Music", "Gaming", "Photography", "Education", "Lifestyle"];
+const categories = ["All", "Roleplay Scenarios", "Real-Life Challenges", "Strength Test", "Pro Wrestling", "Grappling and Jiu-jitsu", "Flex Show", "Casual Training", "Sensory Interaction", "Fetish", "Muscle of Steel", "Best ABS", "Mixed Martial Arts", "Brazilian Jiu-Jitsu", "Boxing"];
 
 const Creators = () => {
   const [searchQuery, setSearchQuery] = useState("");
