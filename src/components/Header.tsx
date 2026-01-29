@@ -27,7 +27,8 @@ const Header = () => {
             <Flame className="w-8 h-8 text-primary transition-transform group-hover:scale-110" />
             <span className="text-xl font-bold tracking-tight">
               <span className="text-foreground">HELL</span>
-              <span className="hellbo-gradient-text">BO</span>
+              <span className="hellbo-gradient-text">B</span>
+              <span className="text-foreground">O</span>
             </span>
           </Link>
 
