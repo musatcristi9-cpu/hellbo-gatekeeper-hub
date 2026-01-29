@@ -43,7 +43,7 @@ const categories: Category[] = [
   { name: "Flex Show", icon: Flame, count: 920, color: "from-orange-500 to-amber-500" },
   { name: "Casual Training", icon: Zap, count: 650, color: "from-yellow-500 to-lime-500" },
   { name: "Sensory Interaction", icon: Hand, count: 480, color: "from-pink-500 to-rose-500" },
-  { name: "Niche Interests", icon: Heart, count: 1120, color: "from-fuchsia-500 to-pink-500" },
+  { name: "Fetish", icon: Heart, count: 1120, color: "from-fuchsia-500 to-pink-500" },
   { name: "Authority & Control", icon: Shield, count: 870, color: "from-slate-500 to-zinc-500" },
   { name: "Superhero Themes", icon: Star, count: 560, color: "from-blue-500 to-indigo-500" },
   { name: "Entertainment", icon: Clapperboard, count: 1890, color: "from-violet-500 to-purple-500" },
